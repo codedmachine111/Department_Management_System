@@ -1,0 +1,9 @@
+/build
+
+/inc
+
+/.vscode
+
+/src/main.exe
+
+/CMakeLists.txt
